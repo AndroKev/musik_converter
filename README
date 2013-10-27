@@ -1,0 +1,9 @@
+ein einfacher MP3-converter, welcher nur die Mp3 umwandelt welche eine 
+größere bitrate haben, als in den Optionen angegeben.(Default:160)
+
+Abhängigkeiten:
+mp3info
+lame
+
+Verwendung:
+bash music_converter.sh "pfad zu den mp3s"
